@@ -1,3 +1,6 @@
 [submodule "HelloThere"]
 	path = HelloThere
 	url = ./HelloThere.git
+[submodule "DumbAdder"]
+	path = DumbAdder
+	url = ./DumbAdder
