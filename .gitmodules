@@ -1,0 +1,3 @@
+[submodule "HelloThere"]
+	path = HelloThere
+	url = ./HelloThere.git
